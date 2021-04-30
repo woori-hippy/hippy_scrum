@@ -7,6 +7,6 @@
 
     * --> [스크럼 보러 가기](https://github.com/woori-hippy/woori_scrum/blob/main/2021-04-30-15%EC%8B%9C30%EB%B6%84.md)
 
-    * 스프린트 진행
+* 2차 스프린트 
 
-    * 스프린트 리뷰
+    * --> [스크럼 보러 가기](https://github.com/woori-hippy/woori_scrum/blob/main/2021-04-30-19%EC%8B%9C30%EB%B6%84.md)
