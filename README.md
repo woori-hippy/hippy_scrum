@@ -24,3 +24,7 @@
     |<img width="300" src="https://user-images.githubusercontent.com/31889335/116754821-5ece2b80-aa44-11eb-8d66-81395802974e.jpeg">|<img width="300" src="https://user-images.githubusercontent.com/31889335/116754841-64c40c80-aa44-11eb-85e3-19194e695e23.jpeg">|<img width="300" src="https://user-images.githubusercontent.com/31889335/116754851-668dd000-aa44-11eb-9a1a-ceaa10bc1f11.jpeg">|
 
 ### 2021/05/01
+
+* 1차 스프린트
+
+    * --> [스크럼 보러 가기]()
