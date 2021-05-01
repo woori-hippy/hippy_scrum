@@ -27,4 +27,12 @@
 
 * 1차 스프린트
 
-    * --> [스크럼 보러 가기]()
+    * --> [스크럼 보러 가기](https://github.com/woori-hippy/hippy_scrum/blob/main/2021-05-01-16%EC%8B%9C00%EB%B6%84.md)
+
+* 2차 스프린트
+
+    * --> [스크럼 보러 가기](https://github.com/woori-hippy/hippy_scrum/blob/main/2021-05-01-21%EC%8B%9C00%EB%B6%84.md)
+
+* 3차 스프린트
+
+    * --> [스크럼 보러 가기](https://github.com/woori-hippy/hippy_scrum/blob/main/2021-05-01-24%EC%8B%9C00%EB%B6%84.md)
