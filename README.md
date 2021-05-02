@@ -36,3 +36,13 @@
 * 3차 스프린트
 
     * --> [스크럼 보러 가기](https://github.com/woori-hippy/hippy_scrum/blob/main/2021-05-01-24%EC%8B%9C00%EB%B6%84.md)
+
+* 4차 스프린트
+
+    * --> [스크럼 보러 가기](https://github.com/woori-hippy/hippy_scrum/blob/main/2021-05-02-04%EC%8B%9C00%EB%B6%84.md)
+
+    |📌 해커톤|2일차|!!|
+    |---|---|---|
+    |<img width="400" height="120" src="https://user-images.githubusercontent.com/31889335/116804961-e8255100-ab5d-11eb-8de6-ed752f18d290.jpeg">|<img width="350" src="https://user-images.githubusercontent.com/31889335/116804966-f70c0380-ab5d-11eb-8f31-fb20140ab16e.jpeg">|<img width="350" src="https://user-images.githubusercontent.com/31889335/116804970-0a1ed380-ab5e-11eb-84cc-230375736747.jpeg">|
+
+### 2021/05/02
