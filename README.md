@@ -64,3 +64,11 @@
     |<img width="400" src="https://user-images.githubusercontent.com/31889335/116837257-9e437600-ac04-11eb-9f1c-a1cd366fb11e.jpeg">|<img width="400" src="https://user-images.githubusercontent.com/31889335/116837263-a3a0c080-ac04-11eb-80cc-21b12de9389b.jpeg">|<img width="400" src="https://user-images.githubusercontent.com/31889335/116837265-a56a8400-ac04-11eb-9dd0-2f8196500fc1.jpeg">|
 
 
+### 2021/05/03
+
+* 1차 스프린트 ~ 제출 마감까지
+
+    * --> [스크럼 보러 가기](https://github.com/woori-hippy/hippy_scrum/blob/main/2021-05-03-00%EC%8B%9C00%EB%B6%84.md)
+     
+# 끝!
+
