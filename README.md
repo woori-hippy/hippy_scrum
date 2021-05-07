@@ -70,5 +70,6 @@
 
     * --> [스크럼 보러 가기](https://github.com/woori-hippy/hippy_scrum/blob/main/2021-05-03-00%EC%8B%9C00%EB%B6%84.md)
      
-# 끝!
+# 장려상 수상~!
 
+<img src="https://user-images.githubusercontent.com/31889335/117423432-ad575a80-af5b-11eb-8274-8363c9f62cd8.jpeg">
